@@ -1,4 +1,4 @@
-小组成员：赵睿 马昌盛 严志涵
+小组成员：
 
 本小组对ACL2020中来自复旦大学邱锡鹏老师团队的 FLAT: Chinese NER Using Flat-Lattice Transformer进行论文复现，具体实现过程参考了官方开源代码Flat-Lattice-Transformer。
 
